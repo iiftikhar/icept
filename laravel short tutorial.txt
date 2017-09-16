@@ -1,0 +1,35 @@
+laravel +Github Short  Tutorial 
+------------------------------------------------------------
+
+
+Git Hub
+--------------
+step :1
+----------
+make your directory/respo tobe
+sync-able with github
+
+git init
+
+
+step 2:
+-------------------
+pull all files from GitHub respo 
+add remote origin
+git pull origin master
+  
+
+ https://github.com/iiftikhar/icept.git
+
+step 3:
+-----------------------
+track all local all  files
+git add .
+
+
+  step 4:
+-----------------------
+
+commit all files to send in staging level 
+
+git commit -m "all laravell  files   
